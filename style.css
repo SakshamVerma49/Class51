@@ -1,0 +1,15 @@
+h1{
+    color: #ff0000;
+}
+
+.Portfolio{
+    background-color: rgb(0, 255, 255);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Games{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+}
